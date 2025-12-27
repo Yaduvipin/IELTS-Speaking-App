@@ -1,0 +1,7 @@
+{
+  "name": "IELTS SpeakMaster",
+  "description": "An advanced AI-powered IELTS speaking practice and evaluation platform using Gemini's real-time native audio processing.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
